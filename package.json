@@ -1,0 +1,13 @@
+{
+  "title": "ExplainShell",
+  "name": "explainshell-firefox-addon",
+  "version": "0.0.1",
+  "description": "Submits highlighted text to ExplainShell.com from context menu",
+  "main": "index.js",
+  "author": "Yuri Chernenko",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT"
+}
